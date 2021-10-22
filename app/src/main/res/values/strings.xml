@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Memerize</string>
+    <string name="start">Старт</string>
+    <string name="settings">Настройки</string>
+    <string name="highscore">Рекорды</string>
+    <string name="exit">Выход</string>
+
+</resources>
